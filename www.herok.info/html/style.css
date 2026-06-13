@@ -1,0 +1,40 @@
+/* CSS definition file containing sitestyle stylesheets */
+BODY { color: rgb(0,0,0); background-color: rgb(255,255,255)}
+ A:link { color: rgb(0,0,255)}
+ A:visited { color: rgb(153,0,0)}
+ 
+.nof_BasicBanners1-Banner1 {
+font-family:Arial; font-size:12px; font-weight:700; font-style:normal; color:#ffffff 
+}
+
+.nof_BasicNavbar2-Regular {
+font-family:Arial; font-size:9px; font-weight:700; font-style:normal; color:rgb(236,195,83) 
+}
+
+.nof_BasicNavbar4-Rollover {
+font-family:Arial; font-size:9px; font-weight:700; font-style:normal; color:#cc9900 
+}
+
+.nof_BasicNavbar6-Highlighted {
+font-family:Arial; font-size:9px; font-weight:700; font-style:normal; color:#ffffff 
+}
+
+.nof_BasicNavbar8-HighlightedRollover {
+font-family:Arial; font-size:9px; font-weight:700; font-style:normal; color:#ffffff 
+}
+
+.nof_BasicNavbar3-Regular {
+font-family:Arial; font-size:12px; font-weight:400; font-style:normal; color:#000000 
+}
+
+.nof_BasicNavbar5-Rollover {
+font-family:Arial; font-size:12px; font-weight:400; font-style:normal; color:#993300 
+}
+
+.nof_BasicNavbar7-Highlighted {
+font-family:Arial; font-size:12px; font-weight:700; font-style:normal; color:#000000 
+}
+
+.nof_BasicNavbar9-HighlightedRollover {
+font-family:Arial; font-size:12px; font-weight:700; font-style:normal; color:#993300 
+}

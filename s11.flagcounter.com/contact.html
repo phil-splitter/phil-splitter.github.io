@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from s11.flagcounter.com/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 12 Feb 2020 13:14:19 GMT -->
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<title>Flag Counter &raquo; Contact</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<script language = "Javascript">
+/**
+ * DHTML email validation script. Courtesy of SmartWebby.com (http://www.smartwebby.com/dhtml/)
+ */
+
+function echeck(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   alert("Please enter a valid email address.")
+		   return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   alert("Please enter a valid email address.")
+		   return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		    alert("Please enter a valid email address.")
+		    return false
+		}
+
+		 if (str.indexOf(at,(lat+1))!=-1){
+		    alert("Please enter a valid email address.")
+		    return false
+		 }
+
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert("Please enter a valid email address")
+		    return false
+		 }
+
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert("Please enter a valid email address")
+		    return false
+		 }
+		
+		 if (str.indexOf(" ")!=-1){
+		    alert("Please enter a valid email address")
+		    return false
+		 }
+
+ 		 return true					
+	}
+
+function ValidateForm(){
+	var emailID=document.contactflagcounter.email
+	
+	if ((emailID.value==null)||(emailID.value=="")){
+		alert("Please enter your email address.")
+		emailID.focus()
+		return false
+	}
+	if (echeck(emailID.value)==false){
+		emailID.value=""
+		emailID.focus()
+		return false
+	}
+	return true
+ }
+function showlostinfo() {
+	document.getElementById("lostinfo").style.display="";
+	document.getElementById("expandimage1").style.display="none";
+	document.getElementById("lostinfolink").removeAttribute("href");
+	document.getElementById("lostinfolink").style.textDecoration="none";
+}
+</script>
+</head>
+<body>
+	<!-- Shell -->
+	<div class="shell">
+	<a href="index.html"><img src="http://s11.flagcounter.com/images/holiday.png" class="holiday"></a>
+		<!-- Header -->
+		<div id="header">
+			<!-- Logo -->
+			<h1 id="logo"><a href="index.html">Flag Counter</a></h1>
+			<!-- END Logo -->
+			<!-- Navigation -->
+			<div class="navigation">
+				<ul>
+				    <li><a href="index.html">Home</a></li>
+				    <li><a href="countries.html">Country List</a></li>
+				    <li><a href="faq.html">FAQ</a></li>
+				    <li><a href="../flagcounter.boardhost.com/index.html">Forum</a></li>
+				</ul>
+			</div>
+			<!-- END Navigation -->
+		</div>
+		<!-- END Header -->
+		<div class="cl">&nbsp;</div>
+		<!-- Content -->
+		<div id="content">
+			<!-- News -->
+			<div class="news">
+				<!-- Post -->
+				<div class="post">
+					<h1>Feedback Form</h1>
+			
+
+<b>Thank you for your interest in our service.  Due to the high volume of questions received, we ask that you please take the time to look through our <a href=faq.html><u>FAQ</u></a> to be sure that we haven't already answered your question.</b>
+<br><img src=https://images.boardhost.com/invisible.gif height=12><br>
+
+<div style="border: 1px inset;padding:10px;">
+<a href="javascript:showlostinfo()" id=lostinfolink style="text-decoration:underline;font-size:15px;"><b>Lost your counter's HTML code?</a> <img src=http://s11.flagcounter.com/css/images/customize-h3.gif id=expandimage1 onclick="showlostinfo()"></b>
+<div id=lostinfo style="display:none;">
+<br>
+
+Your counter is likely still somewhere on our servers.  If you registered your counter, search your email for your counter's information. Otherwise, if you happen to know the address of your statistics page (which might be in your browser history), please follow our <a href=faq.html#modifying><u>Modifying Your Flag Counter</u></a> instructions to regenerate your HTML code.
+<br><br>
+If you do not have your Flag Counter code or the address of your statistics page, try checking the Internet for cached versions of your site that may contain your counter. A good place to start is <a href=http://cachedpages.com/><u>CachedPages.com</u></a>.<br><br>Please note that counters that do not receive a new visit in more than 30 days are subject to removal from our servers for inactivity.  
+</div>
+</div>
+<br><img src=https://images.boardhost.com/invisible.gif height=8><br>
+
+
+
+
+<!--
+<hr noshade size=1>
+<font size=3>
+<b><img src=https://images.boardhost.com/2/icon_alert.gif align=absbottom> We are aware of issues affecting counters that load from s06.flagcounter.com and are working to get them back online as soon as possible.<br><br>We apologize for the interruption.  Please see <a href=http://flagcounter.boardhost.com/viewtopic.php?id=11671><u>our forums</u></a> for the latest available information.</b>
+</font><br>
+<br><br>
+-->
+<form method=post action=https://pollcode.com/forms/flagcounterfeedback.cgi name="contactflagcounter" onSubmit="return ValidateForm()">
+Your name:<br>
+<input type=text name=name size=20 style="display:none;">
+<input type=text name=realname size=20 style="font-size:17px;font-weight:bold;font-family:arial;">
+<br><br>
+Email address:
+<br>
+<input type=text name=email size=20 style="font-size:17px;font-weight:bold;font-family:arial;">
+<br><br>
+
+Message:<br>
+<textarea rows=6 name=message cols=45 style="display:none;font-size:17px;font-weight:bold;font-family:arial;"></textarea>
+<textarea rows=6 name=feedback cols=45 style="font-size:17px;font-weight:bold;font-family:arial;"></textarea>
+<br><br>
+Please complete the following to help prevent us from receiving spam:
+<br><img src=https://images.boardhost.com/invisible.gif height=5><br>
+<script type="text/javascript">var onloadCallback = function(){grecaptcha.render('recaptcha_6Lf88gsTAA',{"sitekey":"6Lf88gsTAAAAAGrKMlCBsB5eM15o8Gl2QkzFSqr5"});};</script><script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" type="text/javascript"></script><div id="recaptcha_6Lf88gsTAA"></div><br>
+
+<input type=submit value="Send Message">
+</form>
+<br>
+We are unable to respond to messages in languages other than English.
+	
+				</div>
+				<!-- END Post -->
+				
+
+				<div class="cl">&nbsp;</div>
+				<h1 id="logo2"><a href="index.html">Flag Counter</a></h1>
+				<div class="cl">&nbsp;</div>
+			</div>
+			<!-- END News -->
+		</div>
+		<!-- END Content -->
+	</div>
+	<!-- END Shell -->
+	<!-- Footer -->
+	<div id="footer">
+		<div class="shell">
+			<div class="cl">&nbsp;</div>
+			<p class="left"><a href="contact.html">Contact</a>  |  <a href="terms.html">Terms of Service</a> | <a href="privacy.html">Privacy Policy</a> | &copy; <a href=../boardhost.com/index.html>Boardhost.com, Inc.</a>  	
+			</p>
+			<p class="right">
+			<font color=#ffffff>This product includes GeoLite2 data created by MaxMind, available from <a href="../www.maxmind.com/index.html"><font color=#ffffff><u>http://www.maxmind.com/</u></font></a>.</font>
+			</p>
+			<div class="cl">&nbsp;</div>
+		</div>
+	</div>
+	<!-- END Footer -->
+</body>
+
+<!-- Mirrored from s11.flagcounter.com/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 12 Feb 2020 13:14:19 GMT -->
+</html>

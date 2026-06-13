@@ -1,0 +1,53 @@
+/* CSS-Definitionsdatei, die SiteStyle-Stylesheets enthält */
+BODY { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small; background-color: rgb(255,255,255); background-image: url( "http://abcphil.phil-splitter.com/assets/images/background.gif" )}
+ A:active { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small; color: rgb(255,0,0); font-weight: normal; font-style: normal}
+ A:link { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small; color: rgb(0,51,204); font-weight: normal; font-style: normal}
+ UL { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small; font-weight: normal; font-style: normal}
+ A:visited { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small; color: rgb(153,0,153)}
+ .TextObject { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small}
+ H1 { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: xx-large; color: rgb(102,51,102); font-weight: bold}
+ H2 { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-large; color: rgb(102,51,102); font-weight: bold}
+ P { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small}
+ H3 { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: large; color: rgb(102,51,102); font-weight: bold}
+ OL { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small; font-weight: normal; font-style: normal}
+ H4 { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: medium; color: rgb(102,51,102); font-weight: bold}
+ .TextNavBar { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: xx-small}
+ H5 { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: small; color: rgb(102,51,102); font-weight: bold}
+ H6 { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small; color: rgb(102,51,102); font-weight: bold}
+ .nof_DuneMauveBanners1-Banner1 {
+font-family:Verdana; font-size:12px; font-weight:700; font-style:normal; color:#cccccc 
+}
+
+.nof_DuneMauveNavbar2-Regular {
+font-family:Verdana; font-size:10px; font-weight:400; font-style:normal; color:#ffffff 
+}
+
+.nof_DuneMauveNavbar4-Rollover {
+font-family:Verdana; font-size:10px; font-weight:400; font-style:normal; color:#ffffff 
+}
+
+.nof_DuneMauveNavbar6-Highlighted {
+font-family:Verdana; font-size:10px; font-weight:700; font-style:normal; color:#ffffff 
+}
+
+.nof_DuneMauveNavbar8-HighlightedRollover {
+font-family:Verdana; font-size:10px; font-weight:700; font-style:normal; color:#ffffff 
+}
+
+.nof_DuneMauveNavbar3-Regular {
+font-family:Verdana; font-size:10px; font-weight:700; font-style:normal; color:#663366 
+}
+
+.nof_DuneMauveNavbar5-Rollover {
+font-family:Verdana; font-size:10px; font-weight:700; font-style:normal; color:#9900cc 
+}
+
+.nof_DuneMauveNavbar7-Highlighted {
+font-family:Verdana; font-size:10px; font-weight:700; font-style:normal; color:#996699 
+}
+
+.nof_DuneMauveNavbar9-HighlightedRollover {
+font-family:Verdana; font-size:10px; font-weight:700; font-style:normal; color:#cc99cc 
+}
+A:hover { font-family: Verdana,  Tahoma,  Arial,  Helvetica,  Sans-serif; font-size: x-small; color: rgb(255,0,0); font-weight: normal; font-style: normal}
+ 

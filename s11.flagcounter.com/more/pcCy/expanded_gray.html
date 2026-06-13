@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!-- Mirrored from s11.flagcounter.com/more/pcCy/expanded_gray.gif by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 12 Feb 2020 13:14:28 GMT -->
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+	<title>Flag Counter &raquo; Overview</title>
+	<link rel="stylesheet" href="../../css/style.css" type="text/css" media="all" />
+	<link rel="icon" type="image/gif" href="../../images/fcflag.gif" />
+<script language=Javascript>
+function expand_country(cc) {
+	if(document.getElementById) {
+		var im = document.getElementById("expandcollapse_" + cc);
+		if (im) {
+
+			if (im.src.match(/gray/)) {
+				if (im.src.indexOf("expanded_gray.html") > 1) {
+					im.src = "../../../cdn.boardhost.com/collapsed_gray.gif";
+					document.getElementById("hidden_" + cc).style.display = "none";
+				}
+				else {
+					im.src = "../../../cdn.boardhost.com/expanded_gray.gif";
+					document.getElementById("hidden_" + cc).style.display = "";
+				}
+			}
+			else {
+				if (im.src.indexOf("expanded2.html") > 1) {
+					im.src = "../../../cdn.boardhost.com/collapsed2.gif";
+					document.getElementById("hidden_" + cc).style.display = "none";
+				}
+				else {
+					im.src = "../../../cdn.boardhost.com/expanded2.gif";
+					document.getElementById("hidden_" + cc).style.display = "";
+				}
+			}
+		}
+	}
+}
+
+
+
+function expand_pro(cc) {
+	if(document.getElementById) {
+		var im = document.getElementById("expandcollapse_" + cc);
+		if (im) {
+			if (im.src.indexOf("lock_small_unlocked.html") > 1) {
+				im.src = "../../../cdn.boardhost.com/lock_small_locked.png";
+				document.getElementById("hidden_" + cc).style.display = "none";
+			}
+			else {
+				im.src = "../../../cdn.boardhost.com/lock_small_unlocked.png";
+				document.getElementById("hidden_" + cc).style.display = "";
+			}
+		}
+	}
+}
+function ignorebrowser() {
+	document.cookie="acceptscookies=1;path=/;";
+	var c=confirm("Would you like to set a cookie so that the counter will ignore visits from this web browser?");
+	if (c) { window.location.href = "../../ignore-browserffab.html?pcCy"; return false; }
+	else { return false; }
+
+}
+function show_disc() {
+var disctr = document.getElementsByTagName("tr");
+ for(i=0;i<disctr.length;i++) {
+  if (disctr[i].id.substring(5,0)=="disc_") {
+   disctr[i].style.display="";
+  }
+ }
+var disctr = document.getElementsByTagName("span");
+ for(i=0;i<disctr.length;i++) {
+  if (disctr[i].id.substring(5,0)=="disc_") {
+   disctr[i].innerHTML="<i>*discontinued region</i>";
+  }
+ }
+}
+function expclall(buttonclick) {
+if (document.getElementsByTagName) {
+ if ((document.getElementById("expcltext").innerHTML == "Expand All" && buttonclick)||(GetCookie("expanded") == "all" && !buttonclick)) { var expand = true; }
+ var plusminus = document.getElementsByTagName("img");
+ for(i=0;i<plusminus.length;i++) {
+  if (plusminus[i].id.substring(15,0)=="expandcollapse_") {
+   if (expand) { 
+	if (plusminus[i].src.match(/gray/)) {
+		plusminus[i].src="../../../cdn.boardhost.com/expanded_gray.gif";
+        }
+	else {
+		plusminus[i].src="../../../cdn.boardhost.com/expanded2.gif";
+	}
+   }
+   else {
+	if (plusminus[i].src.match(/gray/)) {
+		plusminus[i].src="../../../cdn.boardhost.com/collapsed_gray.gif";
+        }
+	else {
+		plusminus[i].src="../../../cdn.boardhost.com/collapsed2.gif";
+	}
+   }
+  }
+ }  
+ if (expand) {
+  document.getElementById("expcltext").innerHTML = "Collapse All";
+  document.getElementById("expclimgtop").src="../../../cdn.boardhost.com/expanded2.gif";
+  var div = document.getElementsByTagName("*");
+  if (div) {
+   for(i=0;i<div.length;i++) { 
+    if (div[i].id.substring(7,0)=="hidden_") {
+     div[i].style.display="";
+    }
+   }
+  }
+  document.cookie = "expanded=all";
+ }
+ else {
+  document.getElementById("expclimgtop").src="../../../cdn.boardhost.com/collapsed2.gif";
+  document.getElementById("expcltext").innerHTML = "Expand All";
+  var div = document.getElementsByTagName("*");
+  if (div) {
+   for(i=0;i<div.length;i++) {
+    if (div[i].id.substring(7,0)=="hidden_") {
+     div[i].style.display="none";
+    }
+   }
+  }
+  document.cookie = "expanded=";
+ }
+}
+else { if (buttonclick) { alert("Please upgrade your browser for access to this feature."); } }
+}
+
+/////////////////////////////////////////////////////////////
+// Written by: Bill Dortch, hIdaho Design <bdortch.com>
+// The following functions are released to the public domain.
+function getCookieVal (offset) {
+         var endstr = document.cookie.indexOf (";", offset);
+            if (endstr == -1)
+            endstr = document.cookie.length;
+         return unescape(document.cookie.substring(offset, endstr));
+         }
+
+function GetCookie (name) {
+         var arg = name + "=";
+         var alen = arg.length;
+         var clen = document.cookie.length;
+         var i = 0;
+         while (i < clen) {
+         var j = i + alen;
+             if (document.cookie.substring(i, j) == arg)
+             return getCookieVal (j);
+         i = document.cookie.indexOf(" ", i) + 1;
+             if (i == 0) break;
+             }
+
+     return null;
+     }
+// End cookie code
+/////////////////////////////////////////////////////////////
+
+
+</script>
+<link rel="stylesheet" type="text/css" href="../../css/cookieconsent.min.css" />
+<script src="../../js/cookieconsent.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#266BAA",
+      "text": "#ffffff"
+    },
+    "button": {
+      "background": "#eeeeee",
+      "text": "#000000"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom",
+  "content": {
+    "message": "This website uses cookies in accordance with our Privacy Policy.",
+    "dismiss": "Got it!",
+    "link": "Details & opt-out info",
+    "href": "https://flagcounter.com/privacy.html"
+  },
+  "cookie": {
+    domain: "flagcounter.com",
+    expiryDays: 90,
+  }
+})});
+</script>
+</head>
+<body>
+	<!-- Shell -->
+	<div class="shell">
+		<!-- Header -->
+		<div id="header">
+			<!-- Logo -->
+			<h1 id="logo"><a href="../../index.html">Flag Counter</a></h1>
+			<!-- END Logo -->
+			<!-- Navigation -->
+			<div class="navigation">
+				<ul>
+				    <li><a href="../../index.html">Home</a></li>
+				    <li><a href="../../countries.html">Country List</a></li>
+				    <li><a href="../../faq.html">FAQ</a></li>
+				    <li><a href="../../../flagcounter.boardhost.com/index.html">Forum</a></li>
+				</ul>
+			</div>
+			<!-- END Navigation -->
+		</div>
+		<!-- END Header -->
+		<div class="cl">&nbsp;</div>
+		<!-- Content -->
+		<div id="content">
+			<!-- News -->
+			<div class="news">
+				<!-- Post -->
+				<div class="post">
+
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-9639136181134974";
+/* 728x90, created 4/17/09 */
+google_ad_slot = "2106386394";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="../../../pagead2.googlesyndication.com/pagead/f.txt">
+</script><br><img src=../../../cdn.boardhost.com/invisible.gif height=10><br>
+<h1>Overview <font color=#999999>|</font> <a href=../../countries/pcCy/index.html><u>Details</u></a> <font color=#999999>|</font> <a href=../../today/pcCy/index.html><u>today</u></a> <font color=#999999>|</font> <a href=../../flags1/pcCy/1.html><u>YESTERDAY</u></a>  <font color=#999999>|</font> <a href=../../more30/pcCy/index.html><u>History</u></a> <font color=#999999>|</font> <a href=../../gmap/pcCy/index.html><u>Flag Map</u></a> <font color=#999999>|</font> <a href=../../pro/pcCy/index.html><u>Upgrade</u></a></h1><div style="margin-top:-18px;margin-bottom:8px;"><span style="float:right;margin-right:130px;text-transform:none;color:#000000;font-size:12px;"><img src=../../../cdn.boardhost.com/invisible.gif width=10><img src=../../../cdn.boardhost.com/lock_small_locked.png align=absbottom style="margin-bottom:-1px;">Log in to <a href=../../adminffab.html?pcCy><u>Flag Counter Management</u></a></font></span><img src=../../../cdn.boardhost.com/new_small.png align=absbottom style="margin-right:-1px;margin-bottom:-1px;"><a href=../../../flagcounter.com/index.html><u>Create a free counter!</u></a> </div><table border=0 style="margin-top:-8px;margin-left:-6px" cellspacing=6 width=100%><tr><td valign=top colspan=2><table cellspacing=8 cellpadding=0 width=75% border=0 style="padding-top:5px;"><tr><td width=50%><font face=arial size=2><b>Last New Visitor</b><div style="margin-top:4px;line-height:18px;"><font size=2><nobr> </nobr><nobr><a href=../../factbook/de/pcCy.html style="text-decoration:none;"><u>Germany</u></a> <a href=../../detail30/de/pcCy.html><img src=../../../cdn.boardhost.com/page_graph.png align=absbottom width=16 height=16 title="Chart DE Visitors"></a></nobr></div><font size=1>Visited 14 minutes ago</font></font> </td><td width=100><a href=../../factbook/de/pcCy.html><img src="../../images/flags_128x128/de.png" style="width:90px;"></a></td><td width=5><img src=../../images/invisible.gif width=5></td><td bgcolor=#CCCCCC width=1><img src=../../images/invisible.gif width=1></td><td width=1><img src=../../images/invisible.gif width=1></td><td width=45%><font face=arial size=2><b>Newest Country</b><div style="margin-top:4px;line-height:18px;"><font size=2><a href=../../factbook/so/pcCy.html style="text-decoration:none;"><u>Somalia</u></a></div><font size=1>Last Visited January 15, 2020</font></font> </td><td width=100><a href=../../factbook/so/pcCy.html><img src=../../images/flags_128x128/so.png border=0 style="width:90px;"></a></td></tr></table></td></tr><tr><td valign=top></center><br><img src=../../images/invisible.gif height=10><br><font face=arial size=4><b>178 different countries have visited this site.</b></font>&nbsp;&nbsp;241 flags collected. <font size=2><a href=../../countries/pcCy.html style="text-decoration:none;"><u>View all details &raquo;</u></a><br><br><img src=../../images/invisible.gif height=4><br><img src=../../chartffab.png?pcCy><br><table border=0 width=700 cellspacing=8><tr><td align=center><form method=get action=http://www.flagcounter.com/index.html><input type=submit value=" Create a FREE Flag Counter! &raquo;" style="font-size: 19px; width:auto; overflow:visible;">&nbsp;&nbsp;&nbsp;&nbsp;</td></tr></table>
+<table border=0 cellspacing=3 width=80%><tr><td colspan=2><img src=../../../cdn.boardhost.com/invisible.gif height=8><br></td></tr><tr><td width=50% valign=top><font face=arial size=4><b>Visitors</b><br><img src=../../../cdn.boardhost.com/invisible.gif height=7><br>Yesterday: 97<br><img src=../../../cdn.boardhost.com/invisible.gif height=7><br>30 day average: 88<br><img src=../../../cdn.boardhost.com/invisible.gif height=7><br>Record: 509 <font size=2>on March 5, 2015</font><br><img src=../../../cdn.boardhost.com/invisible.gif height=7><br><font size=2><a href=../../more30/pcCy.html style="text-decoration:none;"><u>View history &raquo;</u></a></font></td><td width=50% valign=top><a href=../../more30/pcCy.html><img src=../../overview16cf7.png?pcCy&amp;chart=7 border=0></a></td></tr><tr><td colspan=2><img src=../../../cdn.boardhost.com/invisible.gif height=25></td></tr><tr><td valign=top><font face=arial size=4><b>Flag Counter Views</b><br><img src=../../../cdn.boardhost.com/invisible.gif height=7><br>Yesterday: 198 <img src=../../images/red_down.png align=absbottom style="margin-bottom:-1px;" title="226 views the previous day"><br><img src=../../../cdn.boardhost.com/invisible.gif height=7><br>30 day average:  175<br><img src=../../../cdn.boardhost.com/invisible.gif height=7><br>Record: 951 <font size=2>on June 22, 2014</font><br><img src=../../../cdn.boardhost.com/invisible.gif height=7><br><font size=2><a href=../../more30/pcCy.html style="text-decoration:none;"><u>View history &raquo;</u></a></font></td><td valign=top><a href=../../more30/pcCy.html><img src=../../overview26cf7.png?pcCy&amp;chart=7 border=0></a></td></tr></table></td><td width=160 valign=top><img src=../../../cdn.boardhost.com/invisible.gif height=25><br><script type="text/javascript"><!--
+google_ad_client = "pub-9639136181134974";
+/* 160x600, created 10/3/08 */
+google_ad_slot = "5681294101";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="../../../pagead2.googlesyndication.com/pagead/f.txt">
+</script>
+</td></tr></table>				</div>
+				<!-- END Post -->
+
+				<img src="../../count/fcusers/bg_FFFFFF/txt_FFFFFF/border_FFFFFF/columns_1/maxflags_1/viewers_3/labels_0/pageviews_0/flags_0/index.html" width="1" height="1">
+				<div class="cl">&nbsp;</div>
+				<h1 id="logo2"><a href="../../index.html">Flag Counter</a></h1>
+				<div class="cl">&nbsp;</div>
+			</div>
+			<!-- END News -->
+		</div>
+		<!-- END Content -->
+	</div>
+	<!-- END Shell -->
+	<!-- Footer -->
+	<div id="footer">
+		<div class="shell">
+			<div class="cl">&nbsp;</div>
+			<p class="left"><a href="../../contact.html">Contact</a>  |  <a href="../../terms.html">Terms of Service</a> | <a href="../../privacy.html">Privacy Policy</a> | &copy; <a href=../../../boardhost.com/index.html>Boardhost.com, Inc.</a>  
+
+			
+</p>
+			<p class="right">
+			
+			<font color=#ffffff>This product includes GeoLite2 data created by MaxMind, available from <a href="../../../www.maxmind.com/index.html"><font color=#ffffff><u>http://www.maxmind.com/</u></font></a>.</font>
+</p>
+			<div class="cl">&nbsp;</div>
+		</div>
+	</div>
+	<!-- END Footer -->
+</body>
+
+<!-- Mirrored from s11.flagcounter.com/more/pcCy/expanded_gray.gif by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 12 Feb 2020 13:14:28 GMT -->
+</html>
+

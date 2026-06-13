@@ -1,0 +1,19 @@
+/* CSS-Definitionsdatei, die Site-übergreifende Stylesheets enthält */
+
+.NOF_TS_Calendar0 {
+	font-size: medium;
+ 	color: rgb(0,0,0);
+ 	font-weight: bold;
+ 	background-color: rgb(255,255,255)
+}
+
+.NOF_TS_Calendar1 {
+	color: rgb(255,255,255);
+ 	font-weight: bold;
+ 	background-color: rgb(0,0,0)
+}
+
+.NOF_TS_Calendar2 {
+	color: rgb(0,0,0);
+ 	background-color: rgb(255,255,255)
+}

@@ -1,0 +1,78 @@
+/* CSS-Definitionsdatei, die SiteStyle-Stylesheets enthält */
+BODY { font-size: 10px; background-image: url( "http://textea.phil-splitter.com/assets/images/body_bak.gif" )}
+ 
+.nof_PoeticCreamhandsBanners2-Default {
+font-family:verdana; font-size:8px; font-weight:700; font-style:normal; color:#c6a95e 
+}
+
+.nof_PoeticCreamhandsNavbar4-Regular {
+font-family:Times New Roman ; font-size:10px; font-weight:400; font-style:normal; color:#9e8749 
+}
+
+.nof_PoeticCreamhandsNavbar5-Rollover {
+font-family:Times New Roman ; font-size:10px; font-weight:400; font-style:normal; color:#969696 
+}
+
+.nof_PoeticCreamhandsNavbar6-Highlighted {
+font-family:verdana; font-size:10px; font-weight:700; font-style:normal; color:#9e8749 
+}
+
+.nof_PoeticCreamhandsNavbar7-HighlightedRollover {
+font-family:verdana; font-size:10px; font-weight:700; font-style:normal; color:#969696 
+}
+
+.nof_PoeticCreamhandsNavbar9-Regular {
+font-family:verdana; font-size:10px; font-weight:400; font-style:normal; color:#9e8749 
+}
+
+.nof_PoeticCreamhandsNavbar10-Rollover {
+font-family:verdana; font-size:10px; font-weight:400; font-style:normal; color:#969696 
+}
+
+.nof_PoeticCreamhandsNavbar11-Highlighted {
+font-family:verdana; font-size:10px; font-weight:700; font-style:normal; color:#9e8749 
+}
+
+.nof_PoeticCreamhandsNavbar12-HighlightedRollover {
+font-family:verdana; font-size:10px; font-weight:700; font-style:normal; color:#969696 
+}
+
+.nof_PoeticCreamhandsTableStyles18-row1cell1 {
+  font-size:medium; color:rgb(0,0,0); font-weight:bold; background-color:rgb(255,255,255) 
+}
+
+.nof_PoeticCreamhandsTableStyles18-row2cell1 {
+  color:rgb(255,255,255); font-weight:bold; background-color:rgb(0,0,0) 
+}
+
+.nof_PoeticCreamhandsTableStyles18-row3cell1 {
+  color:rgb(0,0,0); background-color:rgb(255,255,255) 
+}
+
+.nof_PoeticCreamhandsTableStyles20-row1cell1 {
+  font-size:small; color:rgb(255,255,255); font-weight:bold; background-color:rgb(0,0,0) 
+}
+
+.nof_PoeticCreamhandsTableStyles20-row2cell1 {
+  color:rgb(0,0,0); font-weight:normal; font-style:normal; background-color:rgb(192,192,192); border-bottom:1pt solid rgb(0,0,0) 
+}
+
+.nof_PoeticCreamhandsTableStyles20-row3cell1 {
+  color:rgb(0,0,0); background-color:rgb(160,160,164); border-bottom:1pt solid rgb(0,0,0) 
+}
+
+.nof_PoeticCreamhandsTableStyles22-row1cell1 {
+  font-size:small; color:rgb(0,0,0); font-weight:normal; font-style:normal; background-color:rgb(190,223,117) 
+}
+
+.nof_PoeticCreamhandsTableStyles22-row1cell2 {
+  color:rgb(0,0,0); background-color:rgb(238,238,238) 
+}
+
+.nof_PoeticCreamhandsTableStyles22-row2cell1 {
+  color:rgb(0,0,0); font-weight:normal; font-style:normal; background-color:rgb(238,238,238) 
+}
+
+.nof_PoeticCreamhandsTableStyles22-row2cell2 {
+  color:rgb(0,0,0); background-color:rgb(190,223,117) 
+}
