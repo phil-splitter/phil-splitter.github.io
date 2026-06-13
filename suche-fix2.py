@@ -3,25 +3,20 @@ import re
 
 BASE_DIR = "/home/henning/Phil Splitter neu/GitHub"
 
-def harmonisiere_suche():
-    print("Harmonisiere alle Suchfelder auf das funktionierende Google-Formular...")
+def finaler_archivar():
+    print("Starte die endgültige Korrektur für Suche und Text...")
     
-    # 1. Das funktionierende Suchformular (exakt aus Ihrem funktionierenden Code)
-    gutes_formular = """
-    <form action="https://www.google.com/search" method="get" target="_blank" style="margin:0; padding:0;">
-        <input type="hidden" name="q" value="site:phil-splitter.github.io">
-        <input type="text" name="q" placeholder="Suche..." style="width:120px; font-size:11px;">
-        <input type="submit" value="Suchen" style="font-size:11px;">
-    </form>
-    """
-    
-    # Reguläre Ausdrücke, um die verschiedenen kaputten Varianten aufzuspüren:
-    # a) Alte Google-Skript-Blöcke (cse)
-    pattern_script = re.compile(r'<script[^>]*src="[^"]*cse\.google\.com[^"]*"[^>]*>.*?</script>', re.DOTALL | re.IGNORECASE)
-    # b) Alte Google-Such-Container (gsc-control...)
-    pattern_div = re.compile(r'<div[^>]*class="[^"]*gsc-[^"]*"[^>]*>.*?</div>', re.DOTALL | re.IGNORECASE)
-    # c) Spezifische fehlerhafte NetObjects-Suchformulare, die auf lokale Pfade oder cse verweisen
-    pattern_old_form = re.compile(r'<form[^>]*action="[^"]*cse\.google[^"]*"[^>]*>.*?</form>', re.DOTALL | re.IGNORECASE)
+    # 1. Regulärer Ausdruck für den Grafik-Suchbutton
+    # Sucht nach Links, die auf die alte Google-Suche verweisen
+    such_link_muster = re.compile(r'href="[^"]*cse\.google\.com[^"]*"', re.IGNORECASE)
+    neues_such_ziel = 'href="https://www.google.com/search?q=site:phil-splitter.github.io"'
+
+    # 2. Präzises Umlaut-Wörterbuch (ersetzt nur die exakten Paare, keine Einzelzeichen!)
+    umlaut_paare = {
+        'Ã¤': 'ä', 'Ã¶': 'ö', 'Ã¼': 'ü',
+        'Ã„': 'Ä', 'Ã–': 'Ö', 'Ãœ': 'Ü',
+        'ÃŸ': 'ß'
+    }
 
     dateien_geaendert = 0
 
@@ -36,24 +31,24 @@ def harmonisiere_suche():
                     
                     alter_inhalt = inhalt
                     
-                    # Kaputte Elemente durch das funktionierende Formular ersetzen
-                    inhalt = pattern_script.sub('', inhalt)  # Skripte restlos löschen
-                    inhalt = pattern_div.sub(gutes_formular, inhalt)  # Container ersetzen
-                    inhalt = pattern_old_form.sub(gutes_formular, inhalt)  # Alte Formulare ersetzen
+                    # A) Such-Links korrigieren (aus cse.google wird die direkte Google-Suche)
+                    inhalt = such_link_muster.sub(neues_such_ziel, inhalt)
                     
-                    # Nur speichern, wenn sich wirklich etwas geändert hat
+                    # B) Präzise Umlautkorrektur (nur wenn das Paar komplett ist)
+                    for falsch, richtig in list(umlaut_paare.items()):
+                        inhalt = inhalt.replace(falsch, richtig)
+                    
+                    # Nur speichern, wenn eine Reparatur stattgefunden hat
                     if inhalt != alter_inhalt:
                         with open(datei_pfad, 'w', encoding='utf-8') as f:
                             f.write(inhalt)
                         dateien_geaendert += 1
-                        print(f"Suche erfolgreich harmonisiert: {file}")
+                        print(f"Repariert: {file}")
                         
                 except Exception as e:
-                    print(f"Fehler bei Datei {file}: {e}")
+                    print(f"Fehler in {file}: {e}")
 
-    print("=" * 50)
-    print(f"Fertig! Die funktionierende Suche wurde in {dateien_geaendert} Dateien integriert.")
-    print("=" * 50)
+    print(f"\nFertig! {dateien_geaendert} Dateien wurden erfolgreich korrigiert.")
 
 if __name__ == "__main__":
-    harmonisiere_suche()
+    finaler_archivar()
