@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phil-splitter.github.io/sitemap.xml
