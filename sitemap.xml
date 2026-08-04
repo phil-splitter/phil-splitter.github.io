@@ -1,39 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://phil-splitter.github.io/Recht_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/Wissenschaft_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
   <url>
     <loc>https://phil-splitter.github.io/index-2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/index.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/Politik_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/Philosophie_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/Suche_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/Home_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/Religion_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -353,14 +325,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/Recht_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/Wissenschaft_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/index-2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -369,35 +333,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/Politik_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/Philosophie_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/Suche_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/Home_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/Religion_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/frauenrechte.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Recht_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Recht_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -445,10 +381,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Wissenschaft_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/dhimmis.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -490,10 +422,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/antimoral.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Philosophie_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -554,10 +482,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/zur_asthetik.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Home_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -637,10 +561,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/bibel-2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/russland.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -650,10 +570,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/judenhass.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Politik_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -697,19 +613,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Religion_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Philosophie_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/christenverfolgung_2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Suche_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -749,10 +653,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Politik_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/hitler-muslim-bruder.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -769,15 +669,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Suche_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/i_have_a_dream_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Wissenschaft_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -805,10 +697,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/kant__die_idee_gottes_und_das_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/philosophie-religion.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -822,10 +710,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/_philosophie_des_geistes_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.phil-splitter.com/html/Religion_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1145,87 +1029,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Hieronymus-Bosch_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Engel_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Kunst-und-Wahn_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/index-2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Versuchung-des-Heiligen-AntoniNRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/index.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Auferstehung_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Triptychon-innen_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Impressum-Kontakt_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Angelus-Novus_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/10Gebote_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Dies-ist-keine-Pfeife_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/UnbekannteFlugObjekte_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Literatur_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Ren--Magritte_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Der-Verlorene-Sohn_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Malewitsch_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Alle-Seiten_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/Kreuzigung_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Flug-Zeug-_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Hieronymus-Bosch_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1241,15 +1049,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Prometheus_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/franz_kafka-_die_verwandlung5.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Hegel-s-Ferien_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1285,14 +1085,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/9.Gebot_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/6.Gebot_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/10-gebot.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -1301,39 +1093,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Der-Rabe_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Angelus-Novus_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Engel_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/3.Gebot_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/1.Gebot_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Garten-der-L-ste_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/versuchung_des_heiligen_antonius.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Space-War_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Prometheus_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1345,19 +1105,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/10Gebote_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/franz_kafka-_die_verwandlung6.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/auferstehung.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/UnbekannteFlugObjekte_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1369,15 +1121,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Paolo-Veronese---Gastmahl-im-HNRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/luftschiffe.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Garten-Eden_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1385,27 +1129,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Versuchung-des-Heiligen-AntoniNRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Dies-ist-keine-Pfeife_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/das_schloss_13-16.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Alle-Seiten_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Auferstehung_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Angels_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1425,10 +1149,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Triptychon-innen_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/5_gebot.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -1445,27 +1165,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Impressum-Kontakt_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/ende_der_kunst.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Hegel-s-Ferien_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/7.Gebot_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/lucas_cranach_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Sim-sala-bim_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1481,15 +1185,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Triptychon-innen_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/alle_seiten.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Versuchung_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1501,15 +1197,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Out-of-Holland_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/angelus_novus.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Auferstehung_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1529,10 +1217,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Ren--Magritte_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/der_goldkafer.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -1545,10 +1229,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/2.Gebot_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/garten_mittelturm.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -1557,19 +1237,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/5.Gebot_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/9_gebot.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/menschenfresser.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Angelus-Novus_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1585,15 +1257,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Luftschiffe_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/amerika_2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Versuchung-des-Heiligen-AntoniHRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1602,10 +1266,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/garten_ei-erdbeere.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Impressum-Kontakt_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1629,19 +1289,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/10Gebote_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/die_versuchung_des_antonius.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Lucas-Cranach-_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Dies-ist-keine-Pfeife_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1649,15 +1297,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/UnbekannteFlugObjekte_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/garten_meeres-fruchte.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Literatur_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1677,14 +1317,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Engel_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Isenheimer-Altar_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/isenheimer_altar.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -1698,10 +1330,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/hegel-s_ferien.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Ren--Magritte_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1721,23 +1349,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Literatur_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/8.Gebot_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/versuchung.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/literatur.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/4.Gebot_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1753,15 +1369,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Der-Verlorene-Sohn_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/schadelstatte.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Der-Verlorene-Sohn_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1777,23 +1385,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Hieronymus-Bosch_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/garten_eden.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/details_musik-holle.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Malewitsch_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Kreuzigung_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1809,19 +1405,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Alle-Seiten_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/sim_sala_bim.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Musik-H-lle_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Kreuzigung_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1833,23 +1417,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Martin-Buber-Dekalog_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/der_entwendete_brief.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/10-Gebot_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/schweigen.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Jiddische-Sprache_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -1870,10 +1442,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/space_war.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcphil.phil-splitter.com/html/Kunst-und-Wahn_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -2145,10 +1713,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/vorrede_zur_zweiten_ausgabe__1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/religion_der_schonheit.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -2162,10 +1726,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/religionsphilosophie_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/das_denken.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -2374,10 +1934,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/einbildungskraft.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/die_philosophie_und_die_gegenw.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -2605,10 +2161,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/die_chinesische_religion.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/entfremdung_aber_geschieht_allein_in_der_sprache.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -2705,10 +2257,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/hegels_subjektive_logik_begrif.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/veranderungen.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -2754,10 +2302,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/_begriff_der_religion.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/erste_stellung_des_gedankens_z.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -2853,10 +2397,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/die_grosse__quantitat_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/_die_chinesische_religion.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -2878,10 +2418,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/das_urteil_oder_die_bestimmte_religion.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/der_seiner_selbst_gewisse_geis.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -2950,10 +2486,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/die_lehre_vom_begriff.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/das_dasein_gottes_xii.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3053,10 +2585,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/14__vorlesung.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/prozess.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -3114,10 +2642,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/totalitat_in_der_besonderen_individualitat-_elektrizitat_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/das_christentum-2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3206,10 +2730,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/die_religion_des_ratsels.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/texte.phil-splitter.com/html/womit_muss_der_anfang_der_wiss.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3366,10 +2886,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/hegel.religion.phil-splitter.com/html/neunte_vorlesung.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/hegel.religion.phil-splitter.com/html/hw.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3621,26 +3137,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/Wunderbares-Wesen_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/uvw_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/abc_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/ghij_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/klm_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/index-2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -3649,47 +3145,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/rst_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/Namen-Zeiten_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/xyz_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/A-Z_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/nopq_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/SUCHE_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/Home_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/def_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/Antisemitismus-Judenhass-Hegel_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate_goethe.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Abraham_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3697,15 +3153,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Eckhart_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/das_thomas_evangelium.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Leibniz_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3714,10 +3162,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/hegel_zitate_iv.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/-de-Montaigne--_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3733,14 +3177,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Sokrates_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate1_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/husserl_.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -3749,15 +3185,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Bibel_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/suche.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/SUCHE_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3773,15 +3201,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/eckhart_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/_gravitation.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Wunderbares-Wesen_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3817,19 +3237,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate2_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/vegetabilische-_-_animalische_natur_und_das_ich.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/kant-jacobi-hegel.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Voltaire_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3845,15 +3257,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Kant_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/voltaire.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/hegel__subjektive_logik-begrif.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3862,10 +3266,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/prinzipien.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Hobbes_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3885,19 +3285,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/uvw_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/A-Z_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/chesterton_-detektivgeschichten.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Thomas-von-Aquin_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3909,19 +3297,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/nopq_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/paradies_3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/jean_paul_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/schibboleth_.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3933,15 +3313,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/abc_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/duns_scotus.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/phanomenologie_vorrede.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3954,10 +3326,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/die_offenbare_religion.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/-Montesquieu-_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -3977,14 +3345,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Leibniz_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Schelling_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/bibelzitate_6.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -3997,35 +3357,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Judentum_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Plato_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/descartes.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Pascal--Blaise-_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Sein-oder-Nichtsein-_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/hegel_wird_hegel.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/uvw_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/ghij_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4037,15 +3373,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Home_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate__montesquieu_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Locke_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4061,23 +3389,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Die-Nacht..._HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Freud_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/leibniz.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/hegel-bibel.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Rechtloses-Recht-der-Barbarei_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4089,31 +3405,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/kritik_der_praktischen_vernunf.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Voltaire_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/klm_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/plato.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Antisemitismus-Judenhass-Hegel_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/martinus_luther_disputatio.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Wunderbares-Wesen_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4145,10 +3441,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/rst_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/benjamin.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -4166,14 +3458,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/es_gibt_kein_richtiges_leben.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Luther_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Kant_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4233,10 +3517,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Demokrit_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/die_beste_aller_welten.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -4245,27 +3525,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Aristoteles_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/rassismus-hegel.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Anselm-v.Canterbury-_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/def_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/beweise_vom_dasein_gottes.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Hegel_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4274,10 +3538,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/luther.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/rst_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4293,27 +3553,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Heraklit_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate4_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/heinrich_heine.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/k2_geldform.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Locke_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Giftschrank_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4325,27 +3569,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Namen-Zeiten_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/engel.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/brief_hegels_an_goethe.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate10_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/-Montesquieu-_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Mose_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4369,23 +3597,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate2_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/michel_eyquem_de_montaigne__.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/wesen_hegel.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Rousseau_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Laotse_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4397,19 +3609,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/G.W.F.-Hegel-Zitate_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/kant.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate7.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/B-hme-Jacob-_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4421,15 +3625,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Freud_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/manifest.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/abc_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4461,19 +3657,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate3_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/theoretische_vernunft_.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/_de_montaigne__.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Bibelzitate_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4493,10 +3681,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/ghij_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate_bibel.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -4505,19 +3689,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Spinoza_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/adorno-_elfenbeinturm_2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/dialektik_der_aufklarung.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Laotse_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4545,10 +3721,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/xyz_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/die_briefe_des_apostels_paulus-.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -4558,10 +3730,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/hegels_polemik.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Husserl-_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4617,14 +3785,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Anselm-v.Canterbury-_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate11.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/fehlt_leider_nur_das_geistige_band.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -4653,14 +3813,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Mose_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Pascal--Blaise-_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/der_dreissigjahrige_krieg_.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -4681,27 +3833,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/-de-Montaigne--_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Namen-Zeiten_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/das_vaterunser.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/aristoteles.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Abraham_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/A-Z_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4714,10 +3850,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate_hegel_3-__bescheidenheit.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate10_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4742,10 +3874,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate_hegel_2_-_dunkel.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Schelling_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4781,14 +3909,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Rassismus-Hegel_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/klm_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate5.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -4810,10 +3930,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/beschneidung.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/nopq_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4841,23 +3957,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Marx_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/israel-heiden.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/freud.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Descartes_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Spinoza_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4869,19 +3973,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/SUCHE_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Verweilen..._NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/paradies2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate4_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4893,23 +3985,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Thomas-von-Aquin_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/erkenne_ii.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Bibel_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/hegel_zitate_iii.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Die-Nacht..._NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4922,10 +4002,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/baruch_de_spinoza-.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Marx_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -4949,10 +4025,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Eckhart_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/tao_te_king_41-60.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -4966,10 +4038,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/das_heil_kommt___.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Rassismus-Hegel_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5001,14 +4069,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Paulus_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Gottesname_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/rousseau.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -5021,19 +4081,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Jacobi_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/scham_und_schamlosigkeit.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Plato_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Bosch-Hieronymus_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5042,10 +4090,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Judentum_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5081,10 +4125,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/G.W.F.-Hegel-Zitate_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/eckhart.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -5094,10 +4134,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/paralogismen_der_reinen_vernunft.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/aphorismen_aus_hegels_wasteboo.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5113,10 +4149,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Husserl-_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/bibel_zitate_4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -5126,10 +4158,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/lenin.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Demokrit_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5145,23 +4173,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Rousseau_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Heraklit_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Paulus_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/antisemitismus-judenhass-hegel.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate1_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5177,27 +4189,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Descartes_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/hegel_zu_heraklit.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/def_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Luther_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/kapital.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/B-hme-Jacob-_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5209,19 +4205,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/xyz_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/rechtloses_recht_der_barbarei.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/husserl.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Ein-Gespenst-geht-um..._NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5237,23 +4221,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Bibelzitate_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/zitate_rousseau.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Tao..._NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Hegel_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Zitate3_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5273,23 +4241,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Antisemitismus-Judenhass-Hegel_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/mose.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Aristoteles_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/dumm.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Sokrates_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5310,10 +4266,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.abcphil.de/html/verweilen___.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.abcphil.de/html/Hobbes_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5410,10 +4362,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/archiv.abcphil.de/html/leibniz-__theodicee.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/c.%20der%20zweck%20gottes%20mit%20der%20welt/index.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5717,14 +4665,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/html/Recht_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/html/Recht_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/html/frankreich.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -5769,10 +4709,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/html/Wissenschaft_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/html/dhimmis.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -5814,10 +4750,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/html/antimoral.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/html/Philosophie_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5878,10 +4810,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/html/zur_asthetik.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/html/Home_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -5961,10 +4889,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/html/bibel-2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/html/russland.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -5974,10 +4898,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/html/judenhass.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/html/Politik_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6021,19 +4941,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/html/Religion_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/html/Philosophie_NRp3.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/html/christenverfolgung_2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/html/Suche_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6073,10 +4981,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/html/Politik_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/html/hitler-muslim-bruder.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -6093,15 +4997,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/html/Suche_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/html/i_have_a_dream_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/html/Wissenschaft_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6129,10 +5025,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/html/kant__die_idee_gottes_und_das_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/html/philosophie-religion.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -6146,10 +5038,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/html/_philosophie_des_geistes_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/html/Religion_NRp3.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6273,30 +5161,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Hegel-Religion_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Freud_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Antisemitismus_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Suche_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/-Gott-ist-tot-_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/ABCphilDE_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/index-2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -6305,107 +5169,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Wer-denkt-abstrakt--_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Schibboleth_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Phil-Splitter_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Freiheit_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Denken_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Hegel-Christus_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Vorurteil_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Adorno-_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Recht-der-Wahrheit_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Sapere-aude_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Kant-Video_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Hegel-Laotse_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Aufkl-rung_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/home-herok-info_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Mysterien-Geheimnis_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Dreieinigkeit_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Sklaverei_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Marx_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/Texte_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Recht_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Horaz_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/-gott_ist_tot-.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Katholiken-und-Protestanten_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Impressum_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/freiheit_und_terror.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Immanuel-Kant---Zum-Ewigen-FriNRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6417,10 +5185,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Aufkl-rung_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/suche.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -6429,15 +5193,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Recht-der-Wahrheit_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/katholiken_und_protestanten.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Zitate_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6457,27 +5213,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Kant_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Hegel-Religion_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Was-ist-Aufkl-rung-_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Vorurteil_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/freiheit_als_perspektive.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Kant-Video_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6489,23 +5225,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Freud_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/-Gott-ist-tot-_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Antisemitismus_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/die_wahrheit_selbst.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Freud_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6517,31 +5237,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Suche_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Freiheit_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/uber_die_misshelligkeit_zwischen_der_moral_und_der_politik-_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Suche_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Falsche-christliche-Demut_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Die-Heuchelei-und-das-B-se_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Kafka_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6549,31 +5245,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Unbenannt112_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/-Gott-ist-tot-_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Marx_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/paradies.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Recht_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Falsche-christliche-Demut_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Vorlesungen--ber-die-PhilosophNRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6582,10 +5254,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/recht.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/ABCphilDE_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6606,10 +5274,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/kant_video.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Antij-dische-Krawalle-1819_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6645,19 +5309,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Wer-denkt-abstrakt--_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/vorlesungen_uber_die_philosophie_der_religion.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/hegel-laotse.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/home-herok-info_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6669,31 +5325,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Schibboleth_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Objektiver-Idealismus_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Hegel-Religion_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Armut_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/kant.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Paradies_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Schibboleth_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6702,10 +5334,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/adorno_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/alles-ist-m-glich_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6725,19 +5353,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/-Herr--oh-Herr----Schibboleth_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/hegel_-_pobel.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Was-ist-Aufkl-rung-_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Phil-Splitter_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6746,10 +5362,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/unbenannt128.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Adorno-_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6765,10 +5377,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Hegel-Video_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/alles_ist_moglich.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -6781,10 +5389,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Dreieinigkeit_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/gibt_es_gott_-.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -6793,31 +5397,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/alles-ist-m-glich_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Phil-Splitter_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/spinoza_.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Freiheit_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Wer-denkt-abstrakt--_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/paulus.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Glaube_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6829,27 +5413,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Denken_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/wer_denkt_abstrakt-_.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Hegel-Laotse_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Hegel-Christus_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Hegel-Christus_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Vorurteil_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6857,15 +5421,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/ABCphilDE-Archiv-Quelltexte_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/jugend.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Kierkegaard--_HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6889,15 +5445,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Mysterien-Geheimnis_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/zitate.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Gott-ist-..._HRp4.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6909,15 +5457,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Adorno-_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/agnostizismus.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Recht-der-Wahrheit_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6925,19 +5465,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Das-unmittelbare-Wissen_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Denken_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/was_ist_aufklarung-.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Impressum_NRp2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -6949,43 +5477,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Zitate_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Freiheit-und-Terror_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Sapere-aude_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Kant-Video_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Kierkegaard--_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Hegel-Laotse_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/das_bose.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Spinoza-_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/1400_kinder.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Aufkl-rung_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -7005,23 +5501,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Mysterien-Geheimnis_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/paulus-menschenrecht.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Sklaverei_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Antisemitismus_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Dreieinigkeit_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -7030,10 +5510,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/objektiver_idealismus.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Sklaverei_NRp2_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -7049,27 +5525,7 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/ABCphilDE_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Marx_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/freiheit.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Jugend_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Texte_NRp2_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Sapere-aude_HRp4_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -7085,14 +5541,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Texte_HRp4_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Das-unmittelbare-Wissen_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/www.herok.info/html/unbenannt112.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -7105,39 +5553,11 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Freiheit---Moral_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Antij-dische-Krawalle-1819_HRp4.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Hegel---P-bel_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/www.herok.info/html/Freiheit-als-Perspektive_NRp2.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/Vorlesungen--ber-die--sthetik_NRregularRollover_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/index-2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/index.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/Inhalt_NRregularRollover_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/TEXTE--START_HRhighlightedRollover_1_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -7174,10 +5594,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/standpunkt_der_bildung.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/2__die_symbolik_der_erhabenhei.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -7481,10 +5897,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/Der-K-nstler_NRregularRollover_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/musik-_inhalt_und_wirkung.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -7526,10 +5938,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/begriff_des_schonen_uberhaupt.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/Inhalt_NRregularRollover_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -7809,10 +6217,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/TEXTE--START_NRregularRollover_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/der_kunstler.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -7929,10 +6333,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/2.-Aufl-sung-der-G-tter-durch-NRregularRollover_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/_dichtende_subjektivitat.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -7942,10 +6342,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/die_entwicklungsgeschichte_der_epischen_poesie.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/-Der-poetische-Ausdruck_NRregularRollover_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -8157,10 +6553,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/Begrenzung-der--sthetik-und-WiHRhighlightedRollover_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/ii__wissenschaftliche_behandlungsarten_2.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -8321,10 +6713,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/Die-romantische-Architektur_NRregularRollover_1.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/die_indische_auffassung_von_brahman.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -8354,10 +6742,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/partikularisation_der_poetischen_anschauung.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/Vorlesungen--ber-die--sthetik_HRhighlightedRollover_1_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -8414,10 +6798,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/a__der_romantische_inhalt.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/textea.phil-splitter.com/html/--u-ere-Exekution-des-dramatisNRregularRollover_1.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -8481,22 +6861,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/favicon.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/styles.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/neuestezitate.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/zitatdestages.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/euklides.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -8533,10 +6897,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/b__religiose_subjektivitat.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/abscheidung_der_philosophie_von_den_mit_ihr_verwandten_gebieten.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -8546,10 +6906,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/xenophanes.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/hw.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -8714,10 +7070,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/giordano_bruno.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/2__methodische_darstellung_des_kirchlichen_lehrbegriffs.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -8889,10 +7241,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/erster_abschnitt-_bacon_und_bohme.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/b__indische_philosophie.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -8966,10 +7314,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/thomas_reid.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/dritter_teil-_neuere_philosophie.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -9182,10 +7526,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/anaximenes.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/bekanntschaft_mit_den_aristotelischen_schriften.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -9410,10 +7750,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/3__moral.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/hegel.abcphil.de/html/kapila.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
@@ -10513,14 +8849,6 @@
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
-    <loc>https://phil-splitter.github.io/abcda.phil-splitter.com/html/style.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcda.phil-splitter.com/html/site.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
     <loc>https://phil-splitter.github.io/abcda.phil-splitter.com/html/schelling.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
@@ -10562,10 +8890,6 @@
   </url>
   <url>
     <loc>https://phil-splitter.github.io/abcda.phil-splitter.com/html/garten_eden.html</loc>
-    <lastmod>2026-06-13</lastmod>
-  </url>
-  <url>
-    <loc>https://phil-splitter.github.io/abcda.phil-splitter.com/html/fusion.html</loc>
     <lastmod>2026-06-13</lastmod>
   </url>
   <url>
